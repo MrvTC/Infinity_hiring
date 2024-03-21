@@ -1,4 +1,4 @@
-# Infinity_hiring
+# İşe Alım Test Projesi
 
 Aşağıdaki link ile erişilen login ekranında, belirtilen maddelerin test senaryolarını çıkartılması
 gerekmektedir.
